@@ -386,6 +386,18 @@ def update_file_if_new(source_file: Path, target_dir: Path):
         print(f"{source_file} files are different, copying")
         copy2(source_file, target_file)
 
+def download_all():
+    # Download EU Trusted List
+    download()
+    verify()
+    decode()
+
+    # Download UK Trusted List
+    download_uk()
+
+    # Download Value Sets
+    getAllValueSets()
+
 def update_web_app(json_path, public_path):
     '''Update trusted lists and value sets in the web app'''
     typer.echo("Updating the web app")
@@ -407,6 +419,8 @@ def update_verificacovid():
     '''Update trusted lists and value sets in the web app'''
     typer.echo("Updating the web app")
 
+    download_all()
+
     json_path = Path("../VerificaCOVID/src/json/")
     public_path = Path("../VerificaCOVID/src/public/")
 
@@ -417,30 +431,12 @@ def update_mycovidcredential():
     '''Update trusted lists and value sets in the web app'''
     typer.echo("Updating the web app")
 
+    download_all()
+
     json_path = Path("../MyCovidCredential/src/json/")
     public_path = Path("../MyCovidCredential/src/public/")
 
     update_web_app(json_path, public_path)
-
-
-@app.command()
-def download_and_update_all():
-    '''Download and update all lists in web app'''
-    typer.echo("Downloading all Trusted Lists and values Sets")
-
-    # Download EU Trusted List
-    download()
-    verify()
-    decode()
-
-    # Download UK Trusted List
-    download_uk()
-
-    # Download Value Sets
-    getAllValueSets()
-
-    # Update the web app
-    update_web_app()
 
 
 # Run the CLI commands
