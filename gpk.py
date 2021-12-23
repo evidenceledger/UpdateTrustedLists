@@ -5,6 +5,7 @@ from itertools import count
 import json
 import base64
 from pathlib import Path
+from pprint import pp
 from shutil import copy2
 from filecmp import cmp
 
@@ -227,6 +228,7 @@ def diagnostics(input_fileName: str = raw_EU_Trusted_List):
         total_num_keys += len(keys)
         for key in keys:
             kty = key["kty"]
+            
             if kty == "EC":
                 num_ec_keys += 1
             elif kty == "RSA":
@@ -437,6 +439,89 @@ def update_mycovidcredential():
     public_path = Path("../MyCovidCredential/src/public/")
 
     update_web_app(json_path, public_path)
+
+rawSpanishTrustedList = "rawSpanishTrustedList.json"
+
+from cryptography.hazmat.primitives.asymmetric import rsa, ec
+
+@app.command()
+def spaindiag(input_fileName: str = rawSpanishTrustedList):
+    '''Verify the raw file from Spain'''
+    typer.echo("Verifying")
+
+    with open(input_fileName, "r") as f:
+        dsc_trust_list = f.read()
+        dsc_trust_list = json.loads(dsc_trust_list)
+
+    from pprint import pprint
+
+    # Print diagnostics about the list
+    typer.echo(f"Size of list: {len(dsc_trust_list)}")
+
+    total_num_keys = 0
+    num_ec_keys = 0
+    num_rsa_keys = 0
+    num_unkwnown_keys = 0
+
+    for key in dsc_trust_list:
+        kid = key["kid"]
+        print(f"Kid: {kid}")
+        pem = key["certificado"]
+        pem = f"-----BEGIN CERTIFICATE-----\n{pem}\n-----END CERTIFICATE-----"
+        cert_obj = load_pem_x509_certificate(bytes(pem, "utf8"))
+        pub_key = cert_obj.public_key()
+        if isinstance(pub_key, rsa.RSAPublicKey):
+            pass
+        elif isinstance(pub_key, ec.EllipticCurvePublicKey):
+            pass
+        else:
+            print("No idea")
+        rdns = cert_obj.subject.rdns
+        for elem in rdns:
+            if elem.rfc4514_string().startswith("O="):
+                pass
+#                print(f"   {elem.rfc4514_string()}")
+
+
+    return
+    for co in dsc_trust_list:
+        country_orgs = set()
+        country_rsa_keys = 0
+        entry = dsc_trust_list[co]
+        keys = entry["keys"]
+        total_num_keys += len(keys)
+        for key in keys:
+            kty = key["kty"]
+            
+            if kty == "EC":
+                num_ec_keys += 1
+            elif kty == "RSA":
+                num_rsa_keys += 1
+                country_rsa_keys += 1
+            else:
+                num_unkwnown_keys += 1
+            
+            if key.get("use") == "enc":
+                print(f"Warning, key usage is incorrect: {key}")
+
+            pem = key["x5c"][0]
+            pem = f"-----BEGIN CERTIFICATE-----\n{pem}\n-----END CERTIFICATE-----"
+            cert_obj = load_pem_x509_certificate(bytes(pem, "utf8"))
+            rdns = cert_obj.subject.rdns
+            for elem in rdns:
+                if elem.rfc4514_string().startswith("O="):
+                    country_orgs.add(elem.rfc4514_string())
+        typer.echo(f"Country {co}, keys: {len(keys)}, Orgs: {len(country_orgs)}")
+        typer.echo(f"      Orgs: {country_orgs}")
+        if country_rsa_keys > 0:
+            typer.echo(f"      RSA Keys: {country_rsa_keys}")
+
+    typer.echo(f"Total number of keys: {total_num_keys}")
+    typer.echo(f"   EC: {num_ec_keys}")
+    typer.echo(f"   RSA: {num_rsa_keys}")
+    typer.echo(f"   OTHER: {num_unkwnown_keys}")
+
+
 
 
 # Run the CLI commands

@@ -9,8 +9,9 @@ python = "^3.8"
 PyJWT = "^2.1.0"
 typer = "^0.3.2"
 requests = "^2.26.0"
-cryptography = "^3.4.7"
+cryptography = "36.0.0"
 devtools = "^0.8.0"
+cryptojwt = "^1.6.1"
 
 [tool.poetry.dev-dependencies]
 
