@@ -24,6 +24,8 @@ jobs:
         python gpk.py download-all
     - name: Push the updated files to GitHub
       run: |
+        git config user.email "hesus.ruiz@gmail.com"
+        git config user.name "Jesus Ruiz"
         git add .
         git commit -m 'Update Trusted Lists'
         git push origin main
