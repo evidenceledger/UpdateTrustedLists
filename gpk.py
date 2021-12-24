@@ -388,8 +388,9 @@ def update_file_if_new(source_file: Path, target_dir: Path):
         print(f"{source_file} files are different, copying")
         copy2(source_file, target_file)
 
+@app.command()
 def download_all():
-    # Download EU Trusted List
+    '''Download all Trusted Lists to this directory'''
     download()
     verify()
     decode()
