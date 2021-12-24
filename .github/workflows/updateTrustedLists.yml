@@ -24,4 +24,6 @@ jobs:
         python gpk.py download-all
     - name: Push the updated files to GitHub
       run: |
+        git add .
+        git commit -m 'Update Trusted Lists'
         git push origin main
