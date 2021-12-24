@@ -1,4 +1,4 @@
-name: Python application
+name: Decode x509 certificate
 
 on:
   push:
