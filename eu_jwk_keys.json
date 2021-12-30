@@ -1722,6 +1722,19 @@
       "y": "GaL30gUfic64uzaR_LPEQUpxA3NJEE5dnUohAsvQ-OU"
     }
   },
+  "ukusTTcSnQ8=": {
+    "co": "ES",
+    "kid": "ukusTTcSnQ8=",
+    "jwk": {
+      "kty": "EC",
+      "x5t#S256": "ukusTTcSnQ8v82WT3Bq-0ZcNrcdpyhSoDnAht_-ijLM",
+      "use": "sig",
+      "crv": "P-256",
+      "kid": "ukusTTcSnQ8=",
+      "x": "AJV9wVkG7LM6TUw5LNuvYBeSYbi4x-HXtB-2mS2q4KI",
+      "y": "jXr5RYcB2nO69cWZQlKkt1p1CekysR5NrZZwggrqZSE"
+    }
+  },
   "x3ch4ml934I=": {
     "co": "ES",
     "kid": "x3ch4ml934I=",
