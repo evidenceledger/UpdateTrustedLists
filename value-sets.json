@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-01-05",
+      "valueSetDate": "2022-01-06",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test",
@@ -2487,10 +2487,10 @@
          "2103": {
             "display": "VivaChek Biotech (Hangzhou) Co., Ltd, VivaDiag Pro SARS CoV 2 Ag Rapid Test",
             "lang": "en",
-            "active": true,
+            "active": false,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2021-07-07 05:25:29 CEST",
-            "validUntil": "2022-01-06 00:00:00 CET"
+            "version": "2022-01-06 00:00:00 CET",
+            "validUntil": null
          },
          "1375": {
             "display": "DIALAB GmbH, DIAQUICK COVID-19 Ag Cassette",
