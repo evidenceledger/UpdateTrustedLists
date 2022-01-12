@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-01-11",
+      "valueSetDate": "2022-01-12",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test",
@@ -2469,7 +2469,7 @@
             "validUntil": null
          },
          "1257": {
-            "display": "Hangzhou AllTest Biotech Co., Ltd, COVID-19 Antigen Rapid Test",
+            "display": "Hangzhou AllTest Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test (COVID-19 Antigen Rapid Test) (Swab)",
             "lang": "en",
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
@@ -3109,7 +3109,7 @@
             "validUntil": null
          },
          "1876": {
-            "display": "Hangzhou Biotest Biotech Co., Ltd, COVID-19 Antigen Rapid Test Cassette (Nasal Swab)",
+            "display": "Hangzhou Biotest Biotech Co., Ltd, COVID-19 Antigen Rapid Test Cassette(Nasal Swab)",
             "lang": "en",
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
@@ -3245,7 +3245,7 @@
             "validUntil": null
          },
          "1353": {
-            "display": "Nantong Diagnos Biotechnology Co., Ltd, Linkcare (Diagnos BT) COVID-19 Antigen Test Kit (Colloidal Gold)",
+            "display": "Nantong Diagnos Biotechnology Co., Ltd, Covid-19 Antigen Test Kit (Colloidal Gold)",
             "lang": "en",
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
