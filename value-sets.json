@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-01-18",
+      "valueSetDate": "2022-01-19",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test",
@@ -2485,7 +2485,7 @@
             "validUntil": null
          },
          "2103": {
-            "display": "VivaChek Biotech (Hangzhou) Co., Ltd, VivaDiag Pro SARS CoV 2 Ag Rapid Test",
+            "display": "VivaChek Biotech (Hangzhou) Co., Ltd., VivaDiag Pro SARS CoV 2 Ag Rapid Test",
             "lang": "en",
             "active": false,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
@@ -3245,7 +3245,7 @@
             "validUntil": null
          },
          "1353": {
-            "display": "Nantong Diagnos Biotechnology Co., Ltd, Covid-19 Antigen Test Kit (Colloidal Gold)",
+            "display": "Linkcare Health Services (Diagnos BT), Covid-19 Antigen Test Kit (Colloidal Gold)",
             "lang": "en",
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
@@ -3285,7 +3285,7 @@
             "validUntil": null
          },
          "2100": {
-            "display": "VivaChek Biotech (Hangzhou) Co., Ltd, Verino Pro SARS CoV 2 Ag Rapid Test",
+            "display": "VivaChek Biotech (Hangzhou) Co., Ltd., Verino Pro SARS CoV 2 Ag Rapid Test",
             "lang": "en",
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
