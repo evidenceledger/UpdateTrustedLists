@@ -3197,7 +3197,7 @@
             "validUntil": null
          },
          "2684": {
-            "display": "Zhejiang Gene Science Co., Ltd, Novel Coronavirus (COVID-19) Antigen Detection Kit (Swab)",
+            "display": "Zhejiang Gene Science Co., Ltd, Novel Coronavirus (COVID-19) Antigen Detection Kit",
             "lang": "en",
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
@@ -3290,6 +3290,78 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2021-12-21 00:00:00 CET",
+            "validUntil": null
+         },
+         "2807": {
+            "display": "Beijing Hotgen Biotech Co., Ltd., Coronavirus (2019-nCoV)-Antigentest",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-01-21 00:00:00 CET",
+            "validUntil": null
+         },
+         "2380": {
+            "display": "BioSpeedia International, COVID19Speed-Antigen Test BSD_0503",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-01-21 00:00:00 CET",
+            "validUntil": null
+         },
+         "2756": {
+            "display": "DNA Diagnostic, SARS-CoV-2 Antigen Rapid Test",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-01-21 00:00:00 CET",
+            "validUntil": null
+         },
+         "2164": {
+            "display": "Nanjing Synthgene Medical Technology Co., Ltd., SARS-COV-2 Nucleocapsid (N) Antigen Rapid Detection Kit (Colloidal gold method)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-01-21 00:00:00 CET",
+            "validUntil": null
+         },
+         "2763": {
+            "display": "ScheBo Biotech, ScheBo SARS CoV-2 Quick ANTIGEN (Colloidal Gold Method)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-01-21 00:00:00 CET",
+            "validUntil": null
+         },
+         "1942": {
+            "display": "Surge Medical Inc., COVID-19 Antigen Test Kit",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-01-21 00:00:00 CET",
+            "validUntil": null
+         },
+         "1751": {
+            "display": "Türklab Tibbi Mal. San. ve Tic. A.S., RAPIDAN TESTER Covid-19 Ag Test",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-01-21 00:00:00 CET",
+            "validUntil": null
+         },
+         "1689": {
+            "display": "Türklab Tibbi Mal. San. ve Tic. A.S., TEST IT Covid-19 Ag Test",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-01-21 00:00:00 CET",
+            "validUntil": null
+         },
+         "1722": {
+            "display": "Türklab Tibbi Mal. San. ve Tic. A.S., TOYO Covid-19 Ag Test",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-01-21 00:00:00 CET",
             "validUntil": null
          }
       }
