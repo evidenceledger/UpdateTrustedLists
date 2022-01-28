@@ -1616,6 +1616,19 @@
       "y": "qiXMeagpQBkpAxXG60z1fVrlLZg0PzaaFfhHo6gZpco"
     }
   },
+  "OFuszKRHwBg=": {
+    "co": "ES",
+    "kid": "OFuszKRHwBg=",
+    "jwk": {
+      "kty": "EC",
+      "x5t#S256": "OFuszKRHwBipWRzF6VhnP5i7mSZZadZVscE0YHyfJ1o",
+      "use": "sig",
+      "crv": "P-256",
+      "kid": "OFuszKRHwBg=",
+      "x": "Rtumh_vSoJJwJ3c0Txb9GM8FSuQh4vzASOC0UQuRMDg",
+      "y": "XLae3IZaQMor7bv8-fNbzgFbiwUrPLccKqcITQ49n3o"
+    }
+  },
   "YRYidQ+wetg=": {
     "co": "ES",
     "kid": "YRYidQ+wetg=",
