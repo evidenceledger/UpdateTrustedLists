@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-02-02",
+      "valueSetDate": "2022-02-03",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test",
@@ -1965,7 +1965,7 @@
             "validUntil": null
          },
          "1501": {
-            "display": "New Gene (Hangzhou) Bioengineering Co., Ltd, COVID-19 Antigen Detection Kit",
+            "display": "New Gene (Hangzhou) Bioengineering Co., Ltd., COVID-19 Antigen Detection Kit",
             "lang": "en",
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
@@ -2461,7 +2461,7 @@
             "validUntil": null
          },
          "2104": {
-            "display": "Nal von minden GmbH, NADAL COVID -19 Ag +Influenza A/B Test",
+            "display": "Nal von minden GmbH, NADAL COVID-19 Ag + Influenza A/B Test",
             "lang": "en",
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
@@ -2495,10 +2495,10 @@
          "1375": {
             "display": "DIALAB GmbH, DIAQUICK COVID-19 Ag Cassette",
             "lang": "en",
-            "active": true,
+            "active": false,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2021-05-11 00:00:00 CEST",
-            "validUntil": "2022-02-03 00:00:00 CET"
+            "version": "2022-02-03 00:00:00 CET",
+            "validUntil": null
          },
          "2101": {
             "display": "AXIOM Gesellschaft für Diagnostica und Biochemica mbH, COVID-19 Antigen Rapid Test Card",
@@ -2573,7 +2573,7 @@
             "validUntil": null
          },
          "1822": {
-            "display": "Anbio (Xiamen) Biotechnology Co., Ltd, Rapid COVID-19 Antigen Test(Colloidal Gold)",
+            "display": "Anbio (Xiamen) Biotechnology Co., Ltd, Rapid COVID-19 Antigen Test (Colloidal Gold)",
             "lang": "en",
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
@@ -2687,10 +2687,10 @@
          "2010": {
             "display": "Atlas Link Technology Co., Ltd., NOVA Test® SARS-CoV-2 Antigen Rapid Test Kit (Colloidal Gold Immunochromatography)",
             "lang": "en",
-            "active": true,
+            "active": false,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2021-07-07 05:19:54 CEST",
-            "validUntil": "2022-02-03 00:00:00 CET"
+            "version": "2022-02-03 00:00:00 CET",
+            "validUntil": null
          },
          "1162": {
             "display": "Nal von minden GmbH, NADAL COVID-19 Ag Test",
