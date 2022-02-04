@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-02-03",
+      "valueSetDate": "2022-02-04",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test",
@@ -3474,7 +3474,7 @@
             "version": ""
          },
          "ORG-100032020": {
-            "display": "Novavax CZ AS",
+            "display": "Novavax CZ a.s.",
             "lang": "en",
             "active": true,
             "system": "https://spor.ema.europa.eu/v1/organisations",
@@ -3578,7 +3578,7 @@
             "version": ""
          },
          "EU/1/20/1507": {
-            "display": "Spikevax (previously COVID-19 Vaccine Moderna)",
+            "display": "Spikevax",
             "lang": "en",
             "active": true,
             "system": "https://ec.europa.eu/health/documents/community-register/html/",
@@ -3606,9 +3606,9 @@
             "version": "1.0"
          },
          "NVX-CoV2373": {
-            "display": "NVX-CoV2373",
+            "display": "NVX-CoV2373 (deprecated)",
             "lang": "en",
-            "active": true,
+            "active": false,
             "system": "http://ec.europa.eu/temp/vaccineproductname",
             "version": "1.0"
          },
@@ -3641,9 +3641,9 @@
             "version": "1.0"
          },
          "Inactivated-SARS-CoV-2-Vero-Cell": {
-            "display": "Inactivated SARS-CoV-2 (Vero Cell)",
+            "display": "Inactivated SARS-CoV-2 (Vero Cell) (deprecated)",
             "lang": "en",
-            "active": true,
+            "active": false,
             "system": "http://ec.europa.eu/temp/vaccineproductname",
             "version": "1.0"
          },
@@ -3723,6 +3723,13 @@
             "active": true,
             "system": "http://ec.europa.eu/temp/vaccineproductname",
             "version": "1.6"
+         },
+         "EU/1/21/1618": {
+            "display": "Nuvaxovid",
+            "lang": "en",
+            "active": true,
+            "system": "https://ec.europa.eu/health/documents/community-register/html/",
+            "version": ""
          }
       }
    },
