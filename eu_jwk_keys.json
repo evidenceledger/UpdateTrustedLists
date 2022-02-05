@@ -2626,6 +2626,18 @@
       "y": "9fAZ6gspPiBnkDxyWf2dbKeme5RglRcSKnAgaIzci9M"
     }
   },
+  "aW9Kj5+wiJE=": {
+    "co": "FR",
+    "kid": "aW9Kj5+wiJE=",
+    "jwk": {
+      "kty": "EC",
+      "x5t#S256": "aW9Kj5-wiJFCpjE9Q9zYUU_lvTvmXDHXQkIFPVLILSw",
+      "crv": "P-256",
+      "kid": "aW9Kj5+wiJE=",
+      "x": "0YhjcN1uCJkRuccorSqS7XmCy4TV74ki7Q9-uOl4cgU",
+      "y": "YIQwCF3cv5hchUJHpc_IaRSVGzTptpLCNxO4ApE5NA0"
+    }
+  },
   "e+bFdywyJQE=": {
     "co": "FR",
     "kid": "e+bFdywyJQE=",
