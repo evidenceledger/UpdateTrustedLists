@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-02-10",
+      "valueSetDate": "2022-02-11",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test",
@@ -3408,7 +3408,7 @@
    },
    "vaccine-mah-manf.json": {
       "valueSetId": "vaccines-covid-19-auth-holders",
-      "valueSetDate": "2021-11-09",
+      "valueSetDate": "2022-01-26",
       "valueSetValues": {
          "ORG-100001699": {
             "display": "AstraZeneca AB",
@@ -3563,12 +3563,26 @@
             "active": true,
             "system": "https://spor.ema.europa.eu/v1/organisations",
             "version": ""
+         },
+         "ORG-100000788": {
+            "display": "Sanofi Pasteur",
+            "lang": "en",
+            "active": true,
+            "system": "https://spor.ema.europa.eu/v1/organisations",
+            "version": ""
+         },
+         "ORG-100036422": {
+            "display": "Valneva France",
+            "lang": "en",
+            "active": true,
+            "system": "https://spor.ema.europa.eu/v1/organisations",
+            "version": ""
          }
       }
    },
    "vaccine-medicinal-product.json": {
       "valueSetId": "vaccines-covid-19-names",
-      "valueSetDate": "2021-11-09",
+      "valueSetDate": "2022-01-26",
       "valueSetValues": {
          "EU/1/20/1528": {
             "display": "Comirnaty",
@@ -3730,6 +3744,41 @@
             "active": true,
             "system": "https://ec.europa.eu/health/documents/community-register/html/",
             "version": ""
+         },
+         "Covovax": {
+            "display": "Covovax",
+            "lang": "en",
+            "active": true,
+            "system": "http://ec.europa.eu/temp/vaccineproductname",
+            "version": "1.8"
+         },
+         "Vidprevtyn": {
+            "display": "Vidprevtyn",
+            "lang": "en",
+            "active": true,
+            "system": "http://ec.europa.eu/temp/vaccineproductname",
+            "version": "1.8"
+         },
+         "VLA2001": {
+            "display": "VLA2001",
+            "lang": "en",
+            "active": true,
+            "system": "http://ec.europa.eu/temp/vaccineproductname",
+            "version": "1.8"
+         },
+         "EpiVacCorona-N": {
+            "display": "EpiVacCorona-N",
+            "lang": "en",
+            "active": true,
+            "system": "http://ec.europa.eu/temp/vaccineproductname",
+            "version": "1.8"
+         },
+         "Sputnik-M": {
+            "display": "Sputnik M",
+            "lang": "en",
+            "active": true,
+            "system": "http://ec.europa.eu/temp/vaccineproductname",
+            "version": "1.8"
          }
       }
    },
