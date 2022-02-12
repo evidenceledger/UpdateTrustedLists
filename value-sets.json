@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-02-11",
+      "valueSetDate": "2022-02-12",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test",
@@ -3362,6 +3362,70 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2022-01-21 00:00:00 CET",
+            "validUntil": null
+         },
+         "1865": {
+            "display": "Acon Biotech (Hangzhou) Co., Ltd, Flowflex SARS-CoV-2 Antigen Rapid Test (Nasal/Saliva)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-02-10 00:00:00 CET",
+            "validUntil": null
+         },
+         "2853": {
+            "display": "GenSure Biotech Inc, GenSure COVID-19 Antigen Rapid Test Kit",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-02-10 00:00:00 CET",
+            "validUntil": null
+         },
+         "1899": {
+            "display": "Jiangsu Konsung Bio-Medical Science And Technology Co., Ltd., COVID-19 Antigen Rapid Test Kit (Colloidal Gold)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-02-10 00:00:00 CET",
+            "validUntil": null
+         },
+         "2151": {
+            "display": "JINAN BABIO BIOTECHNOLOGY CO., LTD., SARS-CoV-2 Antigen Rapid Detection Kit (Colloidal Gold Method)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-02-10 00:00:00 CET",
+            "validUntil": null
+         },
+         "2260": {
+            "display": "Multi-G bvba, Covid19Check-NAS",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-02-10 00:00:00 CET",
+            "validUntil": null
+         },
+         "1573": {
+            "display": "Nantong Egens Biotechnology Co.,Ltd, COVID-19 Antigen Rapid Test Kit",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-02-10 00:00:00 CET",
+            "validUntil": null
+         },
+         "2608": {
+            "display": "Neo-nostics (Suzhou) Bioengineering Co., Ltd., COVID 19 Antigen Test Kit (Colloidal Gold Method)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-02-10 00:00:00 CET",
+            "validUntil": null
+         },
+         "1200": {
+            "display": "Ortho Clinical Diagnostics, VITROS Immunodiagnostic Products SARS-CoV-2 Antigen",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-02-10 00:00:00 CET",
             "validUntil": null
          }
       }
