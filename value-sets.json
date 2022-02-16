@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-02-15",
+      "valueSetDate": "2022-02-16",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test",
@@ -2031,10 +2031,10 @@
          "1906": {
             "display": "Azure Biotech Inc, COVID-19 Antigen Rapid Test Device",
             "lang": "en",
-            "active": true,
+            "active": false,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2021-07-07 05:20:10 CEST",
-            "validUntil": "2022-02-16 00:00:00 CET"
+            "version": "2022-02-16 00:00:00 CET",
+            "validUntil": null
          },
          "768": {
             "display": "ArcDia International Ltd, mariPOC SARS-CoV-2",
@@ -2831,10 +2831,10 @@
          "1324": {
             "display": "Guangzhou Decheng Biotechnology Co., LTD, V-CHEK, 2019-nCoV Ag Rapid Test Kit (Immunochromatography)",
             "lang": "en",
-            "active": true,
+            "active": false,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2021-07-07 05:06:03 CEST",
-            "validUntil": "2022-02-16 00:00:00 CET"
+            "version": "2022-02-16 00:00:00 CET",
+            "validUntil": null
          },
          "345": {
             "display": "SD BIOSENSOR Inc, STANDARD Q COVID-19 Ag Test",
