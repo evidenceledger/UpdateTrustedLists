@@ -2338,6 +2338,18 @@
       "y": "_6omWFsLEN9EVzA8IsXBVyNrUs37vNid9XSBBkNwnqI"
     }
   },
+  "zPt5QMRAGLE=": {
+    "co": "FO",
+    "kid": "zPt5QMRAGLE=",
+    "jwk": {
+      "kty": "EC",
+      "x5t#S256": "zPt5QMRAGLGLD2ggB1Qg6PPAAYd-vK2QPlynE3ENXDk",
+      "crv": "P-256",
+      "kid": "zPt5QMRAGLE=",
+      "x": "LlAbjlqgxI_4RSkTe48ujrHtkfbMQXlQbAj3rcSoV0c",
+      "y": "GYQBwhVhSiImbXtTMnLGJUj4DQT4eEZFn3vosuYqZJU"
+    }
+  },
   "0oCvyNKB210=": {
     "co": "FR",
     "kid": "0oCvyNKB210=",

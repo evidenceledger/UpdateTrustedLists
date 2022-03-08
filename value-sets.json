@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-03-07",
+      "valueSetDate": "2022-03-08",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test",
@@ -3426,6 +3426,62 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2022-02-10 00:00:00 CET",
+            "validUntil": null
+         },
+         "2519": {
+            "display": "BIOLAN HEALTH, S.L., COVID-19 Antigen Rapid Test (Colloidal Gold Method)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-03-04 00:00:00 CET",
+            "validUntil": null
+         },
+         "2724": {
+            "display": "Fosun Diagnostics (Shanghai) Co.,Ltd., Fosun Covid-19 Ag CARD",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-03-04 00:00:00 CET",
+            "validUntil": null
+         },
+         "2257": {
+            "display": "Hangzhou AllTest Biotech Co., Ltd., SARS-CoV-2 Antigen Rapid Test (Nasal Swab)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-03-04 00:00:00 CET",
+            "validUntil": null
+         },
+         "1988": {
+            "display": "Inzek International trading, Biozek covid-19 Antigen Rapidtest BCOV-502",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-03-04 00:00:00 CET",
+            "validUntil": null
+         },
+         "2672": {
+            "display": "Pierenkemper GmbH, (SARS-CoV-2) Antigen Rapid Test COVIDENT COVID-19",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-03-04 00:00:00 CET",
+            "validUntil": null
+         },
+         "2742": {
+            "display": "Wuhan HealthCare Biotechnology Co., Ltd., SARS-CoV-2 Antigen Test Kit (Colloidal Gold)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-03-04 00:00:00 CET",
+            "validUntil": null
+         },
+         "2201": {
+            "display": "Zybio Inc., SARS-CoV-2 Antigen Assay Kit (Colloidal Gold Method)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-03-04 00:00:00 CET",
             "validUntil": null
          }
       }
