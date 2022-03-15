@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-03-14",
+      "valueSetDate": "2022-03-15",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test",
@@ -2837,7 +2837,7 @@
             "validUntil": null
          },
          "345": {
-            "display": "SD BIOSENSOR Inc, STANDARD Q COVID-19 Ag Test",
+            "display": "SD BIOSENSOR Inc, STANDARD Q COVID-19 Ag Test ",
             "lang": "en",
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
