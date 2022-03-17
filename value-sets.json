@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-03-16",
+      "valueSetDate": "2022-03-17",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test",
@@ -3007,9 +3007,9 @@
          "2156": {
             "display": "ROCHE Diagnostics, Elecsys® SARS-CoV-2 Antigen",
             "lang": "en",
-            "active": true,
+            "active": false,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2021-10-20 00:00:00 CEST",
+            "version": "2022-03-16 00:00:00 CET",
             "validUntil": null
          },
          "2415": {
