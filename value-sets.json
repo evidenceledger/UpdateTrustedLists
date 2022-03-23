@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-03-22",
+      "valueSetDate": "2022-03-23",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test",
@@ -2831,9 +2831,9 @@
          "1324": {
             "display": "Guangzhou Decheng Biotechnology Co., LTD, V-CHEK, 2019-nCoV Ag Rapid Test Kit (Immunochromatography)",
             "lang": "en",
-            "active": false,
+            "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2022-02-16 00:00:00 CET",
+            "version": "2022-03-22 00:00:00 CET",
             "validUntil": null
          },
          "345": {
@@ -2943,9 +2943,9 @@
          "1960": {
             "display": "DiaSorin S.p.A, LIAISON® SARS-CoV-2 Ag",
             "lang": "en",
-            "active": true,
+            "active": false,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2021-10-20 00:00:00 CEST",
+            "version": "2022-03-22 00:00:00 CET",
             "validUntil": null
          },
          "2273": {
@@ -3423,9 +3423,9 @@
          "1200": {
             "display": "Ortho Clinical Diagnostics, VITROS Immunodiagnostic Products SARS-CoV-2 Antigen",
             "lang": "en",
-            "active": true,
+            "active": false,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2022-02-10 00:00:00 CET",
+            "version": "2022-03-22 00:00:00 CET",
             "validUntil": null
          },
          "2519": {
