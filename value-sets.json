@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-03-29",
+      "valueSetDate": "2022-03-30",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test",
@@ -3697,6 +3697,41 @@
             "active": true,
             "system": "https://spor.ema.europa.eu/v1/organisations",
             "version": ""
+         },
+         "Instituto-Butantan": {
+            "display": "Instituto Butantan",
+            "lang": "en",
+            "active": true,
+            "system": "http://ec.europa.eu/temp/vaccinemanufacturer",
+            "version": "1.9"
+         },
+         "NVSI": {
+            "display": "National Vaccine and Serum Institute, China",
+            "lang": "en",
+            "active": true,
+            "system": "http://ec.europa.eu/temp/vaccinemanufacturer",
+            "version": "1.9"
+         },
+         "Yisheng-Biopharma": {
+            "display": "Yisheng Biopharma",
+            "lang": "en",
+            "active": true,
+            "system": "http://ec.europa.eu/temp/vaccinemanufacturer",
+            "version": "1.9"
+         },
+         "ORG-100026614": {
+            "display": "Sinocelltech Ltd.",
+            "lang": "en",
+            "active": true,
+            "system": "https://spor.ema.europa.eu/v1/organisations",
+            "version": ""
+         },
+         "ORG-100008549": {
+            "display": "Medicago Inc.",
+            "lang": "en",
+            "active": true,
+            "system": "https://spor.ema.europa.eu/v1/organisations",
+            "version": ""
          }
       }
    },
@@ -3789,14 +3824,14 @@
             "version": "1.0"
          },
          "Covaxin": {
-            "display": "Covaxin (also known as BBV152 A, B, C)",
+            "display": "Covaxin",
             "lang": "en",
             "active": true,
             "system": "http://ec.europa.eu/temp/vaccineproductname",
             "version": "1.0"
          },
          "Covishield": {
-            "display": "Covishield (ChAdOx1_nCoV-19)",
+            "display": "Covishield",
             "lang": "en",
             "active": true,
             "system": "http://ec.europa.eu/temp/vaccineproductname",
@@ -3899,6 +3934,48 @@
             "active": true,
             "system": "http://ec.europa.eu/temp/vaccineproductname",
             "version": "1.8"
+         },
+         "Covid-19-adsorvida-inativada": {
+            "display": "Vacina adsorvida covid-19 (inativada)",
+            "lang": "en",
+            "active": true,
+            "system": "http://ec.europa.eu/temp/vaccineproductname",
+            "version": "1.9"
+         },
+         "NVSI-06-08": {
+            "display": "NVSI-06-08",
+            "lang": "en",
+            "active": true,
+            "system": "http://ec.europa.eu/temp/vaccineproductname",
+            "version": "1.9"
+         },
+         "YS-SC2-010": {
+            "display": "YS-SC2-010",
+            "lang": "en",
+            "active": true,
+            "system": "http://ec.europa.eu/temp/vaccineproductname",
+            "version": "1.9"
+         },
+         "SCTV01C": {
+            "display": "SCTV01C",
+            "lang": "en",
+            "active": true,
+            "system": "http://ec.europa.eu/temp/vaccineproductname",
+            "version": "1.9"
+         },
+         "Covifenz": {
+            "display": "Covifenz",
+            "lang": "en",
+            "active": true,
+            "system": "http://ec.europa.eu/temp/vaccineproductname",
+            "version": "1.9"
+         },
+         "AZD2816": {
+            "display": "AZD2816",
+            "lang": "en",
+            "active": true,
+            "system": "http://ec.europa.eu/temp/vaccineproductname",
+            "version": "1.9"
          }
       }
    },
@@ -3926,6 +4003,27 @@
             "active": true,
             "version": "2021-01",
             "system": "http://www.whocc.no/atc"
+         },
+         "1162643001": {
+            "display": "SARS-CoV-2 recombinant spike protein antigen vaccine",
+            "lang": "en",
+            "active": true,
+            "version": "2022-01-31",
+            "system": "http://snomed.info/sct"
+         },
+         "1157024006": {
+            "display": "Inactivated whole SARS-CoV-2 antigen vaccine",
+            "lang": "en",
+            "active": true,
+            "version": "2022-01-31",
+            "system": "http://snomed.info/sct"
+         },
+         "29061000087103": {
+            "display": "COVID-19 non-replicating viral vector vaccine",
+            "lang": "en",
+            "active": true,
+            "version": "2022-01-31",
+            "system": "http://snomed.info/sct"
          }
       }
    }
