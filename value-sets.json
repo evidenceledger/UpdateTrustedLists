@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-04-11",
+      "valueSetDate": "2022-04-12",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test",
@@ -2335,9 +2335,9 @@
          "1244": {
             "display": "GenBody, Inc, GenBody COVID-19 Ag",
             "lang": "en",
-            "active": false,
+            "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2021-12-16 00:00:00 CET",
+            "version": "2022-04-08 00:00:00 CEST",
             "validUntil": null
          },
          "1243": {
@@ -3482,6 +3482,70 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2022-03-04 00:00:00 CET",
+            "validUntil": null
+         },
+         "1926": {
+            "display": "ARISTA Biotech Pte. Ltd, ARISTA™ COVID-19 Antigen Rapid Test",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-04-08 00:00:00 CEST",
+            "validUntil": null
+         },
+         "2302": {
+            "display": "Hangzhou AllTest Biotech Co., Ltd., COVID-19 Antigen Test Cassette (Nasopharyngeal Swab)(FIA)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-04-08 00:00:00 CEST",
+            "validUntil": null
+         },
+         "2862": {
+            "display": "Hangzhou Funworld Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test Device",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-04-08 00:00:00 CEST",
+            "validUntil": null
+         },
+         "2979": {
+            "display": "Hangzhou Jucheng Medical Products Co., Ltd, SARS-CoV-2 Ag Rapid Test Kit",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-04-08 00:00:00 CEST",
+            "validUntil": null
+         },
+         "1783": {
+            "display": "InTec PRODUCTS, INC., Rapid SARS-CoV-2 Antigen Test (nasopharyngeal/nasal specimen)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-04-08 00:00:00 CEST",
+            "validUntil": null
+         },
+         "2963": {
+            "display": "Jiangxi Province JinHuan Medical Instrument Co., LTD., DREHA Novel Coronavirus (SARS-CoV-2) Antigen Rapid Detection Kit",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-04-08 00:00:00 CEST",
+            "validUntil": null
+         },
+         "2685": {
+            "display": "PRIMA Lab SA, COVID-19 Antigen Rapid Test",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-04-08 00:00:00 CEST",
+            "validUntil": null
+         },
+         "2941": {
+            "display": "Shenzhen Kingfocus Biomedical Engineering Co., Ltd., COVID-19 Antigen Detection Kit(Quantum Dots-Based Immunofluorescence Chromatography)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-04-08 00:00:00 CEST",
             "validUntil": null
          }
       }
