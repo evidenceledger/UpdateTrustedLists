@@ -5260,6 +5260,18 @@
       "y": "-a8j98F6YIC-oRodPNBeOtmxi07iP4V68RAdpEdlY8M"
     }
   },
+  "CtE/PQJLZn8=": {
+    "co": "CY",
+    "kid": "CtE/PQJLZn8=",
+    "jwk": {
+      "kty": "EC",
+      "x5t#S256": "CtE_PQJLZn_di7O1OvNcsrFMfxKTTpAMlG8aJtDJY3k",
+      "crv": "P-256",
+      "kid": "CtE/PQJLZn8=",
+      "x": "K-8LG4s2tdPUnQRmysQDlbO3Jz5slJSv248A1FKri1A",
+      "y": "g_fCBH6c6MNkbQcNDlx__uxVnOg_KDXOxrJng0E6a5s"
+    }
+  },
   "e4lH6I4iMIM=": {
     "co": "CZ",
     "kid": "e4lH6I4iMIM=",
