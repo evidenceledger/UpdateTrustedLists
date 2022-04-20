@@ -4478,6 +4478,18 @@
       "y": "89HJnRFKXxqxuqVyMiD_VnOCCCSvYorkX83u1FMrvMI"
     }
   },
+  "k9bEwLX+p48=": {
+    "co": "FR",
+    "kid": "k9bEwLX+p48=",
+    "jwk": {
+      "kty": "EC",
+      "x5t#S256": "k9bEwLX-p4-XcSBW401AXUrM7KKmnGnedMlZC_tAkLs",
+      "crv": "P-256",
+      "kid": "k9bEwLX+p48=",
+      "x": "55pWqL8UMZerNSHQdbic3qRIWbjoU7ZlftuIL1HPwjc",
+      "y": "vCPuajKbprAyK1Pg_Sm2EDrAQnPHbyZ_2Hkfq6FPE5E"
+    }
+  },
   "lrxgMs2Duac=": {
     "co": "FR",
     "kid": "lrxgMs2Duac=",
