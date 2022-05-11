@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-05-10",
+      "valueSetDate": "2022-05-11",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co., Ltd, SARS-CoV-2 Antigen Rapid Test",
@@ -3253,7 +3253,7 @@
             "validUntil": null
          },
          "2741": {
-            "display": "OSANG Healthcare Co., Ltd, GeneFinder COVID-19 Ag Plus Rapid Test",
+            "display": "OSANG Healthcare Co., Ltd, GeneFinder™ COVID-19 Ag Plus Rapid Test",
             "lang": "en",
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
@@ -3546,6 +3546,46 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2022-04-08 00:00:00 CEST",
+            "validUntil": null
+         },
+         "2942": {
+            "display": "Hangzhou Zheda Dixun Biological Gene Engineering Co., Ltd., SARS-CoV-2 Nucleocapsid (N) Antigen Rapid Test Cassette (Swab)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-05-06 00:00:00 CEST",
+            "validUntil": null
+         },
+         "1791": {
+            "display": "Immunospark s.r.l., Rapid SARS-Cov2 Antigen Test",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-05-06 00:00:00 CEST",
+            "validUntil": null
+         },
+         "2866": {
+            "display": "Lifecosm Biotech Limited, COVID-19 Antigen Test Cassette",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-05-06 00:00:00 CEST",
+            "validUntil": null
+         },
+         "2812": {
+            "display": "Shenzhen Huaree Technology Co.,Ltd, SARS-CoV-2 Antigen Rapid Test Kit (Immunochromatography)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-05-06 00:00:00 CEST",
+            "validUntil": null
+         },
+         "3015": {
+            "display": "Suzhou Soochow University Saier Immuno Biotech Co., Ltd., InstantSure Covid-19 Ag CARD",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-05-06 00:00:00 CEST",
             "validUntil": null
          }
       }
