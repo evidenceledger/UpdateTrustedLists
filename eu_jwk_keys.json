@@ -4178,6 +4178,18 @@
       "y": "FR6d28w3CdH9nwI-SMnydcgqSBS3blBMQI_X1ps8JDQ"
     }
   },
+  "768E5xdq4Eg=": {
+    "co": "FR",
+    "kid": "768E5xdq4Eg=",
+    "jwk": {
+      "kty": "EC",
+      "x5t#S256": "768E5xdq4EiKpn1ey9Obaa-OPraOJjXgOVirgKy2N9M",
+      "crv": "P-256",
+      "kid": "768E5xdq4Eg=",
+      "x": "sdkkXqwhvUOcRao3EMIcLnDwZNiB87ofJwLuwqzIlQg",
+      "y": "Tjme53X_H_35X88c6IDezoHpIjTTKTxozsufDGUOyqc"
+    }
+  },
   "9m30dRRI4Sw=": {
     "co": "FR",
     "kid": "9m30dRRI4Sw=",
