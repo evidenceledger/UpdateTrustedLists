@@ -3308,6 +3308,19 @@
       "y": "HakmavA-WDBXUOyFjRxs_rJ0O48smuSHl1Z3mkNY6Hs"
     }
   },
+  "lRKNJOaPsrE=": {
+    "co": "ES",
+    "kid": "lRKNJOaPsrE=",
+    "jwk": {
+      "kty": "EC",
+      "x5t#S256": "lRKNJOaPsrEiv027PtBrt16dPltOgplr_LeF1wENj68",
+      "use": "sig",
+      "crv": "P-256",
+      "kid": "lRKNJOaPsrE=",
+      "x": "lpS-MegEWvmYu5JRH1k2v78mVG9MlBkhgWC_OrDyXF4",
+      "y": "wdeS8zIZtTtxDOOCvLwBTxlYl1LkTtc5qwpprXIWU-Y"
+    }
+  },
   "qFNF2dC+mjQ=": {
     "co": "ES",
     "kid": "qFNF2dC+mjQ=",
