@@ -3229,6 +3229,19 @@
       "y": "XLae3IZaQMor7bv8-fNbzgFbiwUrPLccKqcITQ49n3o"
     }
   },
+  "Saf0s5eMkIQ=": {
+    "co": "ES",
+    "kid": "Saf0s5eMkIQ=",
+    "jwk": {
+      "kty": "EC",
+      "x5t#S256": "Saf0s5eMkIRN75iwUKykHmHNCWRCfwGXP024EBqe5nE",
+      "use": "sig",
+      "crv": "P-256",
+      "kid": "Saf0s5eMkIQ=",
+      "x": "ej6yg-gtP53DoIr1rtWVVHPsyqLRbdOwhHEpC-oFAo0",
+      "y": "M6YH8V4HW9wYoGmysGctOPt7j0w6l6VWEoBNKBa_ooY"
+    }
+  },
   "YRYidQ+wetg=": {
     "co": "ES",
     "kid": "YRYidQ+wetg=",
