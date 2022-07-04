@@ -4207,6 +4207,18 @@
       "y": "SG1pxagYhBgNwZuQVjLFKr1al8YiEiUqCgBOGB9urbo"
     }
   },
+  "02/qsZyiry0=": {
+    "co": "BH",
+    "kid": "02/qsZyiry0=",
+    "jwk": {
+      "kty": "EC",
+      "x5t#S256": "02_qsZyiry2N8dNkRMldB_BYgIGi3xPnz045TC_tXXI",
+      "crv": "P-256",
+      "kid": "02/qsZyiry0=",
+      "x": "D7I9DYHnOqEDZJV8XKIdAs78gHoNGm1UjuM9WR6an-Q",
+      "y": "lIx9Cw1ihVLNu9oSu1-odaEgdnbM_76fkSHl-9jphNE"
+    }
+  },
   "9v4n5M3gIsU=": {
     "co": "BJ",
     "kid": "9v4n5M3gIsU=",
