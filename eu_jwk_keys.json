@@ -3444,6 +3444,19 @@
       "y": "ytTQkUr9YKyZzYgXPZb4ILQI6hR0Ehk6L7UXBh3FbkQ"
     }
   },
+  "kNv/TWeG+7c=": {
+    "co": "ES",
+    "kid": "kNv/TWeG+7c=",
+    "jwk": {
+      "kty": "EC",
+      "x5t#S256": "kNv_TWeG-7dyrIez6GkG_oVOgoWrDIbrs0pzIluEqS8",
+      "use": "sig",
+      "crv": "P-256",
+      "kid": "kNv/TWeG+7c=",
+      "x": "FYI5si93dvujjcJI22r5BbxPiDKTI-WimkwJJBuUTkU",
+      "y": "7jO36M4sgnWX-poolpZetZnC5Xm88gGkSFFNYJv1e8U"
+    }
+  },
   "kom9zby5Hiw=": {
     "co": "ES",
     "kid": "kom9zby5Hiw=",
