@@ -5208,6 +5208,18 @@
       "y": "6JF7iRnUGgTmOL9jatVTpHMiG0kJ6vhMpu_VLPRkIAg"
     }
   },
+  "gs5a7TF8sMM=": {
+    "co": "FR",
+    "kid": "gs5a7TF8sMM=",
+    "jwk": {
+      "kty": "EC",
+      "x5t#S256": "gs5a7TF8sMOR0-54MiqGgGaGx6aw2J7zabb2wyg-BuU",
+      "crv": "P-256",
+      "kid": "gs5a7TF8sMM=",
+      "x": "lTSv0mC5UPtjTfgv_hiDug3AdPPtQFz1zYIA94kd8JM",
+      "y": "LLPz1QvyQgABhTd07iaTipI6Z46Mc5F6E1WdFHJFNTA"
+    }
+  },
   "j95whXY9F8Y=": {
     "co": "FR",
     "kid": "j95whXY9F8Y=",
