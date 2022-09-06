@@ -2053,6 +2053,18 @@
       "y": "WvBCAM5DpwbBzXxSflB8Iz72J1s2zFKQdPKSDWnDco0"
     }
   },
+  "/23hUqa9yJo=": {
+    "co": "TW",
+    "kid": "/23hUqa9yJo=",
+    "jwk": {
+      "kty": "EC",
+      "x5t#S256": "_23hUqa9yJpKckSApm0nzquZHhIB8i0fv5k9CGUMxRQ",
+      "crv": "P-256",
+      "kid": "/23hUqa9yJo=",
+      "x": "O6niUgETcAlUOrFpZ3Dz9fMmfHHnxVnka-h24-3E_GY",
+      "y": "ElGEeTOc1hFd_27pivyu1HbBSwKTeAZMo2zdnD520Ss"
+    }
+  },
   "fjT5xGlTa3c=": {
     "co": "TW",
     "kid": "fjT5xGlTa3c=",

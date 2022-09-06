@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-09-05",
+      "valueSetDate": "2022-09-06",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test",
@@ -2791,9 +2791,9 @@
          "1173": {
             "display": "CerTest Biotec, CerTest SARS-CoV-2",
             "lang": "en",
-            "active": false,
+            "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2022-07-09 00:00:00 CEST",
+            "version": "2022-09-05 00:00:00 CEST",
             "validUntil": null
          },
          "1844": {
