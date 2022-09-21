@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-09-20",
+      "valueSetDate": "2022-09-21",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test",
@@ -3629,7 +3629,7 @@
             "validUntil": null
          },
          "2449": {
-            "display": "CITEST DIAGNOSTICS Inc., COVID-19 Antigen Rapid Test (Nasal Swab)",
+            "display": "CITEST DIAGNOSTICS Inc., COVID-19 Antigen Rapid Test (Swab)",
             "lang": "en",
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
