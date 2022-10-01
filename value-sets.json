@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-09-29",
+      "valueSetDate": "2022-10-01",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test",
@@ -4186,9 +4186,9 @@
             "version": "1.8"
          },
          "VLA2001": {
-            "display": "VLA2001",
+            "display": "VLA2001 (deprecated)",
             "lang": "en",
-            "active": true,
+            "active": false,
             "system": "http://ec.europa.eu/temp/vaccineproductname",
             "version": "1.8"
          },
@@ -4261,6 +4261,13 @@
             "active": true,
             "system": "http://ec.europa.eu/temp/vaccineproductname",
             "version": "1.10"
+         },
+         "EU/1/21/1624": {
+            "display": "COVID-19 Vaccine Valneva",
+            "lang": "en",
+            "active": true,
+            "system": "https://ec.europa.eu/health/documents/community-register/html/",
+            "version": ""
          }
       }
    },
