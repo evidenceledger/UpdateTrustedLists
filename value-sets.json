@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-10-05",
+      "valueSetDate": "2022-10-06",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test",
@@ -3746,6 +3746,70 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2022-07-22 00:00:00 CEST",
+            "validUntil": null
+         },
+         "3037": {
+            "display": "AAZ-LMB, COVID-VIRO ALL IN",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-10-05 00:00:00 CEST",
+            "validUntil": null
+         },
+         "1646": {
+            "display": "NG Biotech, NG-Test SARS-CoV-2 Ag",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-10-05 00:00:00 CEST",
+            "validUntil": null
+         },
+         "2936": {
+            "display": "AMPER Inc., AMPER COVID-19 Antigen Rapid Testing Kit (Colloidal Gold)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-10-05 00:00:00 CEST",
+            "validUntil": null
+         },
+         "2538": {
+            "display": "AUTOBIO DIAGNOSTICS. Ltd., SARS-CoV-2 Ag Rapid Test",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-10-05 00:00:00 CEST",
+            "validUntil": null
+         },
+         "3190": {
+            "display": "GC Medical Science Corp., GENEDIA W COVID-19 Ag (643K)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-10-05 00:00:00 CEST",
+            "validUntil": null
+         },
+         "2063": {
+            "display": "Hangzhou Sejoy Electronics & Instruments Co. Ltd., SARS-CoV-2 & Influenza A+B Antigen Combo Rapid Test Cassette",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-10-05 00:00:00 CEST",
+            "validUntil": null
+         },
+         "1446": {
+            "display": "Hangzhou Singclean Medical Products Co. Ltd., COVID-19 Antigen Test Kit (Colloidal Gold)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-10-05 00:00:00 CEST",
+            "validUntil": null
+         },
+         "1962": {
+            "display": "RapiGEN Inc., BIOCREDIT COVID-19 Ag",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-10-05 00:00:00 CEST",
             "validUntil": null
          }
       }
