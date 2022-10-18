@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-10-17",
+      "valueSetDate": "2022-10-18",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test",
@@ -1855,9 +1855,9 @@
          "1456": {
             "display": "Xiamen Wiz Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test",
             "lang": "en",
-            "active": false,
+            "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2022-07-09 00:00:00 CEST",
+            "version": "2022-10-14 00:00:00 CEST",
             "validUntil": null
          },
          "1610": {
@@ -2423,9 +2423,9 @@
          "2108": {
             "display": "AESKU.DIAGNOSTICS GmbH & Co. KG, AESKU.RAPID SARS-CoV-2",
             "lang": "en",
-            "active": false,
+            "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2022-07-09 00:00:00 CEST",
+            "version": "2022-10-14 00:00:00 CEST",
             "validUntil": null
          },
          "2228": {
@@ -2695,9 +2695,9 @@
          "1162": {
             "display": "Nal von minden GmbH, NADAL COVID-19 Ag Test",
             "lang": "en",
-            "active": false,
+            "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2022-07-09 00:00:00 CEST",
+            "version": "2022-10-14 00:00:00 CEST",
             "validUntil": null
          },
          "2130": {
@@ -2711,9 +2711,9 @@
          "1437": {
             "display": "Guangzhou Wondfo Biotech Co. Ltd., Wondfo 2019-nCoV Antigen Test (Lateral Flow Method)",
             "lang": "en",
-            "active": false,
+            "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2022-07-09 00:00:00 CEST",
+            "version": "2022-10-14 00:00:00 CEST",
             "validUntil": null
          },
          "1833": {
@@ -3297,8 +3297,8 @@
             "lang": "en",
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2022-01-21 00:00:00 CET",
-            "validUntil": null
+            "version": "2022-10-14 00:00:00 CEST",
+            "validUntil": "2022-12-11 00:00:00 CET"
          },
          "2380": {
             "display": "BioSpeedia International, COVID19Speed-Antigen Test BSD_0503",
@@ -3810,6 +3810,30 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2022-10-05 00:00:00 CEST",
+            "validUntil": null
+         },
+         "3153": {
+            "display": "Huachenyang (Shenzhen) Technology Co. Ltd., COVID-19 Ag Rapid Test Kit",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-10-14 00:00:00 CEST",
+            "validUntil": null
+         },
+         "1963": {
+            "display": "RapiGEN Inc., BIOCREDIT COVID-19 Ag Test Nasal",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-10-14 00:00:00 CEST",
+            "validUntil": null
+         },
+         "3143": {
+            "display": "VivaChek Biotech (Hangzhou) Co. Ltd., Rapid Gold Pro SARS-CoV-2 AG Test",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-10-14 00:00:00 CEST",
             "validUntil": null
          }
       }
