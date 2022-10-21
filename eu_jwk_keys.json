@@ -3196,19 +3196,6 @@
       "y": "blFXybeHOdzer_SdgRN5D6glZfRW2K8KkNL2fj7OXvk"
     }
   },
-  "udrotE0n7i0=": {
-    "co": "AL",
-    "kid": "udrotE0n7i0=",
-    "jwk": {
-      "kty": "EC",
-      "x5t#S256": "udrotE0n7i3MSSjLnLZEFIkfotk7mHSV6rYUdSXvWm8",
-      "use": "sig",
-      "crv": "P-256",
-      "kid": "udrotE0n7i0=",
-      "x": "kyi6sf8k8_kk2KjTBNiIVFpnIeZcj4oUXwV8kk5D6Bw",
-      "y": "knSFMfY0g-QbkolMlypiIIShz76YqPTO52JJWQnbq9M"
-    }
-  },
   "wkKPi6HIm5A=": {
     "co": "AL",
     "kid": "wkKPi6HIm5A=",

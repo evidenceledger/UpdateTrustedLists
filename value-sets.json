@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-10-20",
+      "valueSetDate": "2022-10-21",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test",
@@ -3525,7 +3525,7 @@
             "validUntil": null
          },
          "2963": {
-            "display": "Jiangxi Province JinHuan Medical Instrument Co. Ltd. China, DREHA Novel Coronavirus (SARS-CoV-2) Antigen Rapid Detection Kit",
+            "display": "Jiangxi Province JinHuan Medical Instrument Co. Ltd., DREHA Novel Coronavirus (SARS-CoV-2) Antigen Rapid Detection Kit",
             "lang": "en",
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
