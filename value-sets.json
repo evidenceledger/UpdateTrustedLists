@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-10-23",
+      "valueSetDate": "2022-10-24",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test",
