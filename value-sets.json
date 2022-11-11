@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-11-10",
+      "valueSetDate": "2022-11-11",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test",
@@ -3295,9 +3295,9 @@
          "2807": {
             "display": "Beijing Hotgen Biotech Co. Ltd., Coronavirus (2019-nCoV)-Antigentest",
             "lang": "en",
-            "active": true,
+            "active": false,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2022-10-14 00:00:00 CEST",
+            "version": "2022-11-11 00:00:00 CET",
             "validUntil": "2022-12-11 00:00:00 CET"
          },
          "2380": {
