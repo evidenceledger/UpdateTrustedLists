@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-12-05",
+      "valueSetDate": "2022-12-06",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test",
@@ -2629,7 +2629,7 @@
             "validUntil": null
          },
          "1266": {
-            "display": "Labnovation Technologies Inc., SARS-CoV-2 Antigen Rapid Test Kit",
+            "display": "Labnovation Technologies Inc., SARS-CoV-2 Antigen Rapid Test Kit (Immunochromatography)",
             "lang": "en",
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
