@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-12-10",
+      "valueSetDate": "2022-12-11",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test",
@@ -3297,8 +3297,8 @@
             "lang": "en",
             "active": false,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2022-11-12 00:00:00 CET",
-            "validUntil": "2022-12-11 00:00:00 CET"
+            "version": "2022-12-11 00:00:00 CET",
+            "validUntil": null
          },
          "2380": {
             "display": "BioSpeedia International, COVID19Speed-Antigen Test BSD_0503",
