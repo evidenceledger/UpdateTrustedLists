@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2022-12-12",
+      "valueSetDate": "2022-12-13",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test",
@@ -2623,9 +2623,9 @@
          "1420": {
             "display": "NanoEntek, FREND COVID-19 Ag",
             "lang": "en",
-            "active": false,
+            "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2022-07-09 00:00:00 CEST",
+            "version": "2022-12-09 00:00:00 CET",
             "validUntil": null
          },
          "1266": {
@@ -3898,6 +3898,86 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2022-11-11 00:00:00 CET",
+            "validUntil": null
+         },
+         "4057": {
+            "display": "Acon Biotech (Hangzhou) Co. Ltd., Flowflex SARS-CoV-2 Antigen Rapid Test (Nasal/Nasopharyngeal/Saliva)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-12-09 00:00:00 CET",
+            "validUntil": null
+         },
+         "4053": {
+            "display": "Acon Biotech (Hangzhou) Co. Ltd., Flowflex SARS-CoV-2 Antigen Rapid Test Slim",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-12-09 00:00:00 CET",
+            "validUntil": null
+         },
+         "2280": {
+            "display": "Assure Tech (Hangzhou) Co. Ltd., COVID-19 & Influenza A/B Antigen Nasal Test Kit",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-12-09 00:00:00 CET",
+            "validUntil": null
+         },
+         "4075": {
+            "display": "Assure Tech (Hangzhou) Co. Ltd., ECOTEST COVID-19 Antigen Rapid Test Device",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-12-09 00:00:00 CET",
+            "validUntil": null
+         },
+         "2769": {
+            "display": "Beijing Beier Bioengineering Co. Ltd., COVID-19 Antigen Rapid Test Kit",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-12-09 00:00:00 CET",
+            "validUntil": null
+         },
+         "3004": {
+            "display": "Jiangxi Province JinHuan Medical Instrument Co. Ltd., MEDSYS Novel Coronavirus (SARS-CoV-2) Antigen Rapid Detection Kit",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-12-09 00:00:00 CET",
+            "validUntil": null
+         },
+         "1849": {
+            "display": "Nanjing Vazyme Medical Technology Co. Ltd., Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Antigen Detection Kit (Colloidal Gold-Based)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-12-09 00:00:00 CET",
+            "validUntil": null
+         },
+         "3107": {
+            "display": "Nanjing Vazyme Medical Technology Co. Ltd., Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Antigen Detection Kit (Colloidal Gold-Based) -  Nasal swab",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-12-09 00:00:00 CET",
+            "validUntil": null
+         },
+         "3096": {
+            "display": "Rapid Labs Ltd., SARS-CoV-2 Antigen Rapid Test (Nasopharyngeal Swab)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-12-09 00:00:00 CET",
+            "validUntil": null
+         },
+         "4065": {
+            "display": "Vitrosens Biotechnology Co. Ltd., RapidFor™ SARS-CoV-2 & FLU A/B Antigen Combo Test",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-12-09 00:00:00 CET",
             "validUntil": null
          }
       }
