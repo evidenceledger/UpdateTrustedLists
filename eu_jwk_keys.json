@@ -2519,18 +2519,6 @@
       "y": "GCxSNLgKbdSl0n6bJ_BHzRj2lhfmFtgdUCqWwrW7WRY"
     }
   },
-  "Pcl7yBWEQ7c=": {
-    "co": "MC",
-    "kid": "Pcl7yBWEQ7c=",
-    "jwk": {
-      "kty": "EC",
-      "x5t#S256": "Pcl7yBWEQ7fXlLRDbf7ffSkyPTBjvWNACGERxcF-L9s",
-      "crv": "P-256",
-      "kid": "Pcl7yBWEQ7c=",
-      "x": "crxlv5_uGbsaXM_QMSpvZV2iNtF0o4QBech6LGpy3OE",
-      "y": "Hn2yS3_uIqiNfUDVrVFxI5TDMrQePtREix3V8pIuV9o"
-    }
-  },
   "b6DvtaUKH6Y=": {
     "co": "MC",
     "kid": "b6DvtaUKH6Y=",
