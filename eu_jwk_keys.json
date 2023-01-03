@@ -5380,6 +5380,18 @@
       "y": "NeC9lH3vCh3wqt2L0edoGC00dwr5aCtdNfRfq1vBIBU"
     }
   },
+  "CXeDmxHB9Lo=": {
+    "co": "FR",
+    "kid": "CXeDmxHB9Lo=",
+    "jwk": {
+      "kty": "EC",
+      "x5t#S256": "CXeDmxHB9Lp2eavCDSHIrW3_7y9VnyTHYSuFKSoPboA",
+      "crv": "P-256",
+      "kid": "CXeDmxHB9Lo=",
+      "x": "sAsyQb7jQEwD320sXgSOoRYGwUePRuuALTUS6EdgUdI",
+      "y": "YwyYwq_scIVW86kp680x9m4u2PgWjGBGhTIGlJ_zTDI"
+    }
+  },
   "Cj0KwOpRFvQ=": {
     "co": "FR",
     "kid": "Cj0KwOpRFvQ=",
