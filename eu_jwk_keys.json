@@ -5728,6 +5728,18 @@
       "y": "TW1_c-eqk-BTR0TmeGHv5VjsOLQZqXzFFODHfBOYtqA"
     }
   },
+  "WVexWoQMo+8=": {
+    "co": "FR",
+    "kid": "WVexWoQMo+8=",
+    "jwk": {
+      "kty": "EC",
+      "x5t#S256": "WVexWoQMo-89GkPBpvlOaGntHu9Fd2xrVPnoGOYVybk",
+      "crv": "P-256",
+      "kid": "WVexWoQMo+8=",
+      "x": "_sjkbOgWYV6IaW2_BIuoRpCSIZ11LvoFP-lc62cTisQ",
+      "y": "kHSBo4-bDCnnrhAChaW0SyNBsNmvqfDuxzEeR742aWU"
+    }
+  },
   "Xo78qgBEx8k=": {
     "co": "FR",
     "kid": "Xo78qgBEx8k=",
