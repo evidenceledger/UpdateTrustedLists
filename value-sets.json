@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2023-02-01",
+      "valueSetDate": "2023-02-02",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test",
@@ -2303,9 +2303,9 @@
          "1884": {
             "display": "Xiamen Wiz Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test (Colloidal Gold)",
             "lang": "en",
-            "active": false,
+            "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-            "version": "2022-07-09 00:00:00 CEST",
+            "version": "2023-01-31 00:00:00 CET",
             "validUntil": null
          },
          "1763": {
@@ -3978,6 +3978,102 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2022-12-09 00:00:00 CET",
+            "validUntil": null
+         },
+         "5803": {
+            "display": "Assure Tech (Hangzhou) Co. Ltd., COVID-19 & Influenza A/B& RSV Antigen Nasal Test Kit",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-01-31 00:00:00 CET",
+            "validUntil": null
+         },
+         "3005": {
+            "display": "Hangzhou Aichek Medical Technology Co. Ltd., COVID-19 Antigen Rapid Test Device",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-01-31 00:00:00 CET",
+            "validUntil": null
+         },
+         "2390": {
+            "display": "Hangzhou AllTest Biotech Co. Ltd., SARS-CoV-2/Influenza A+B/RSV Antigen Combo Rapid Test (Nasopharyngeal Swab)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-01-31 00:00:00 CET",
+            "validUntil": null
+         },
+         "2392": {
+            "display": "Hangzhou AllTest Biotech Co. Ltd., SARS-CoV-2/Influenza A+B/RSV/Adenovirus Antigen Combo Rapid Test (Nasopharyngeal Swab)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-01-31 00:00:00 CET",
+            "validUntil": null
+         },
+         "5743": {
+            "display": "Hangzhou Biotest Biotech Co. Ltd., COVID-19 Antigen Rapid Test Cassette(Nasal Swab)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-01-31 00:00:00 CET",
+            "validUntil": null
+         },
+         "3084": {
+            "display": "InTec Products Inc., AQ+ COVID-19 Ag Rapid Test",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-01-31 00:00:00 CET",
+            "validUntil": null
+         },
+         "4049": {
+            "display": "NINGBO LVTANG BIOTECHNOLOGY Co. Ltd., SARS-CoV-2 Antigen Detection Kit (Colloidal Gold Method)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-01-31 00:00:00 CET",
+            "validUntil": null
+         },
+         "2233": {
+            "display": "Shenzhen Microprofit Biotech Co. Ltd., SARS-CoV-2 & Influenza A/B & RSV Antigen Combo Test Kit (Colloidal Gold Chromatographic Immunoassay)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-01-31 00:00:00 CET",
+            "validUntil": null
+         },
+         "5751": {
+            "display": "Shenzhen Microprofit Biotech Co. Ltd., SARS-CoV-2 & Influenza A/B Antigen Combo Test Kit(Colloidal Gold Chromatographic Immunoassay)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-01-31 00:00:00 CET",
+            "validUntil": null
+         },
+         "1968": {
+            "display": "Shenzhen Microprofit Biotech Co. Ltd., SARS-CoV-2 Antigen Test Kit (Fluorescence Immunoassay)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-01-31 00:00:00 CET",
+            "validUntil": null
+         },
+         "5804": {
+            "display": "Vitrosens Biotechnology Co. Ltd., RapidFor™ SARS-CoV-2 + FLU A/B + RSV Combo Test Kit",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-01-31 00:00:00 CET",
+            "validUntil": null
+         },
+         "2226": {
+            "display": "ZET medikal tekstil dis tic Ltd. sti, SOFTEC SARS COV-2 COVID-19 ANTIGEN TEST KIT",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-01-31 00:00:00 CET",
             "validUntil": null
          }
       }
