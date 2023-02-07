@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2023-02-06",
+      "valueSetDate": "2023-02-07",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test",
@@ -4074,6 +4074,22 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2023-01-31 00:00:00 CET",
+            "validUntil": null
+         },
+         "1371": {
+            "display": "Assure Tech (Hangzhou) Co. Ltd., COVID-19 & Influenza A/B Antigen Combo Test Device",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-12-09 00:00:00 CET",
+            "validUntil": null
+         },
+         "2277": {
+            "display": "Assure Tech (Hangzhou) Co. Ltd., COVID-19 Antigen Nasal Test Kit",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-12-09 00:00:00 CET",
             "validUntil": null
          }
       }
