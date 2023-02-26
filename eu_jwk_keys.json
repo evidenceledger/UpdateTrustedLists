@@ -6688,6 +6688,18 @@
       "y": "vEtC8tSyvvZDuuFWR4aoO_ia9lyKyDvsHKqibJEccOw"
     }
   },
+  "Gw7GWokDFOA=": {
+    "co": "SG",
+    "kid": "Gw7GWokDFOA=",
+    "jwk": {
+      "kty": "EC",
+      "x5t#S256": "Gw7GWokDFOBpltgO3QTgIOedKcoC4DNjmDr4BmJaOeY",
+      "crv": "P-256",
+      "kid": "Gw7GWokDFOA=",
+      "x": "o2HGQ2NjRg1O23mQ0sSRNw7sHqNcNMPs_hm7wYfpoMM",
+      "y": "pYNFU3e_b6Dg3RnKVje6zVcTGoVEbizda7_u69yEyFs"
+    }
+  },
   "JKKAxTT7Wg4=": {
     "co": "SG",
     "kid": "JKKAxTT7Wg4=",
