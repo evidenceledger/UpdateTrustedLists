@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2023-03-15",
+      "valueSetDate": "2023-03-16",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test",
@@ -3858,7 +3858,7 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2022-11-11 00:00:00 CET",
-            "validUntil": null
+            "validUntil": "2023-05-04 00:00:00 CEST"
          },
          "2973": {
             "display": "Medifood Hungary Innovation Kft., MediDia COVID-19 Ag",
@@ -3922,7 +3922,7 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2022-12-09 00:00:00 CET",
-            "validUntil": null
+            "validUntil": "2023-05-04 00:00:00 CEST"
          },
          "4075": {
             "display": "Assure Tech (Hangzhou) Co. Ltd., ECOTEST COVID-19 Antigen Rapid Test Device",
@@ -3978,7 +3978,7 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2022-12-09 00:00:00 CET",
-            "validUntil": null
+            "validUntil": "2023-05-04 00:00:00 CEST"
          },
          "5803": {
             "display": "Assure Tech (Hangzhou) Co. Ltd., COVID-19 & Influenza A/B& RSV Antigen Nasal Test Kit",
@@ -3986,7 +3986,7 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2023-01-31 00:00:00 CET",
-            "validUntil": null
+            "validUntil": "2023-05-04 00:00:00 CEST"
          },
          "3005": {
             "display": "Hangzhou Aichek Medical Technology Co. Ltd., COVID-19 Antigen Rapid Test Device",
@@ -4002,7 +4002,7 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2023-01-31 00:00:00 CET",
-            "validUntil": null
+            "validUntil": "2023-05-04 00:00:00 CEST"
          },
          "2392": {
             "display": "Hangzhou AllTest Biotech Co. Ltd., SARS-CoV-2/Influenza A+B/RSV/Adenovirus Antigen Combo Rapid Test (Nasopharyngeal Swab)",
@@ -4010,7 +4010,7 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2023-01-31 00:00:00 CET",
-            "validUntil": null
+            "validUntil": "2023-05-04 00:00:00 CEST"
          },
          "5743": {
             "display": "Hangzhou Biotest Biotech Co. Ltd., COVID-19 Antigen Rapid Test Cassette(Nasal Swab)",
@@ -4066,7 +4066,7 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2023-01-31 00:00:00 CET",
-            "validUntil": null
+            "validUntil": "2023-05-04 00:00:00 CEST"
          },
          "2226": {
             "display": "ZET medikal tekstil dis tic Ltd. sti, SOFTEC SARS COV-2 COVID-19 ANTIGEN TEST KIT",
@@ -4082,7 +4082,7 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2022-12-09 00:00:00 CET",
-            "validUntil": null
+            "validUntil": "2023-05-04 00:00:00 CEST"
          },
          "2277": {
             "display": "Assure Tech (Hangzhou) Co. Ltd., COVID-19 Antigen Nasal Test Kit",
@@ -4090,6 +4090,62 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2022-12-09 00:00:00 CET",
+            "validUntil": null
+         },
+         "2075": {
+            "display": "Amazing Biotech (Shanghai) Co. Ltd., COVID-19 Antigen Sealing Tube Test Strip (Colloidal Gold)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-03-15 00:00:00 CET",
+            "validUntil": null
+         },
+         "3966": {
+            "display": "Chastru Biotech Limited, COVID-19 Antigen Test Cassette",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-03-15 00:00:00 CET",
+            "validUntil": null
+         },
+         "4081": {
+            "display": "General Biologicals Corporation, GB COVID-19 Ag POCT",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-03-15 00:00:00 CET",
+            "validUntil": null
+         },
+         "4064": {
+            "display": "Glallergen Co. Ltd., Novel Coronavirus (2019-nCoV) Antigen Test Kit (Latex Method)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-03-15 00:00:00 CET",
+            "validUntil": null
+         },
+         "2560": {
+            "display": "Lomina Superbio a.s., Lomina SARS-CoV-2 Antigen LTX test",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-03-15 00:00:00 CET",
+            "validUntil": null
+         },
+         "5812": {
+            "display": "Rapid Labs Ltd., SARS-CoV-2 Antigen Rapid Test  (Nasal Swab)",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-03-15 00:00:00 CET",
+            "validUntil": null
+         },
+         "4111": {
+            "display": "Wuhan Uni-science Biotechnology Co. Ltd., SARS-CoV-2 Antigen Rapid Test Kit",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2023-03-15 00:00:00 CET",
             "validUntil": null
          }
       }
