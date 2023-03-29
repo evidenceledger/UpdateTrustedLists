@@ -2662,18 +2662,6 @@
       "y": "03VysOgtHU68oyoX09xnJ6QeCsiRVjYgYDYb0hFdd3Q"
     }
   },
-  "+EcGd0CKYtg=": {
-    "co": "ID",
-    "kid": "+EcGd0CKYtg=",
-    "jwk": {
-      "kty": "EC",
-      "x5t#S256": "-EcGd0CKYthQGYfOE63wkDbWPBmyPt5dEnH8oOwag-4",
-      "crv": "P-256",
-      "kid": "+EcGd0CKYtg=",
-      "x": "9YqgNXmmXgWijLg6ci7eRK_PVWrb1YSBqzpKek8r4L8",
-      "y": "0IZfkfuJfoSYtkPkocoSbQS9g_cmGo8mMpJAvvi6Zsc"
-    }
-  },
   "umFDVUdIS8Y=": {
     "co": "ID",
     "kid": "umFDVUdIS8Y=",
