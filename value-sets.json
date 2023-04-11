@@ -1770,7 +1770,7 @@
    },
    "test-manf.json": {
       "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-      "valueSetDate": "2023-04-01",
+      "valueSetDate": "2023-04-11",
       "valueSetValues": {
          "1341": {
             "display": "Qingdao Hightop Biotech Co. Ltd., SARS-CoV-2 Antigen Rapid Test",
@@ -4146,6 +4146,22 @@
             "active": true,
             "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
             "version": "2023-03-15 00:00:00 CET",
+            "validUntil": null
+         },
+         "25542": {
+            "display": "Humasis Co. Ltd., Humasis COVID-19 Ag Test",
+            "lang": "en",
+            "active": false,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2022-07-09 00:00:00 CEST",
+            "validUntil": null
+         },
+         "24759": {
+            "display": "SD BIOSENSOR Inc., STANDARD F COVID-19 Ag FIA",
+            "lang": "en",
+            "active": true,
+            "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+            "version": "2021-02-17 00:00:00 CET",
             "validUntil": null
          }
       }
